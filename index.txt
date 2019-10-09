@@ -1,1 +1,3 @@
 Mise en place d'un nouveau fichier se situant dans une branche annexe au tronc master
+
+Déplace entre les branches du projet
