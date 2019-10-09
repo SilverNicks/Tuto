@@ -2,4 +2,7 @@ Voici un petit Text.
 
 Ce dernier  pour but de rajouter un nouveau fichier dans le dossier Tuto.
 Tout se passe bien.
-Ce dernier a été modifier par vim.
+Ce dernier a Ã©tÃ© modifier par vim.
+
+
+Nouvelle Ã©tape, on modifie le fichier en ligne sur Github.
