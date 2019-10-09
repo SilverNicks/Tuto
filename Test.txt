@@ -1,3 +1,5 @@
 Voici un petit Text.
 
-Ce dernier à pour but de rajouter un nouveau fichier dans le dossier Tuto.
+Ce dernier  pour but de rajouter un nouveau fichier dans le dossier Tuto.
+Tout se passe bien.
+Ce dernier a été modifier par vim.
